@@ -1,2 +1,1 @@
-# proyecto-ciencia-de-datos
-Data analysis project using Python, Pandas and data visualization.
+Machine Learning project focused on customer classification for bank marketing campaigns.

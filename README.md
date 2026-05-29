@@ -1,35 +1,36 @@
-#  Bank Marketing Classification Project
 
-##  Objective
-Develop a classification model to identify customers with a high probability of subscribing to a term deposit, helping optimize future marketing campaigns.
+📊 Proyecto de Clasificación de Marketing Bancario
+🎯 Objetivo
 
- Dataset Description
-The dataset includes:
-- Sociodemographic information
-- Financial data
-- Campaign contact details
-- Customer interaction history
- Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+Desarrollar un modelo de clasificación para identificar clientes con alta probabilidad de suscribirse a un depósito a plazo fijo, ayudando a optimizar futuras campañas de marketing.
 
+📁 Descripción del Conjunto de Datos
 
- Project Workflow
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Model Training
-- Model Evaluation
+El conjunto de datos incluye:
 
- Machine Learning Models
-- Logistic Regression
-- Decision Tree
-- Random Forest
+Información sociodemográfica
+Datos financieros
+Detalles de contacto de las campañas
+Historial de interacción de los clientes
+🛠 Tecnologías Utilizadas
+Python
+Pandas
+NumPy
+Matplotlib
+📌 Flujo de Trabajo del Proyecto
+Limpieza de datos
+Análisis Exploratorio de Datos (EDA)
+Ingeniería de características (Feature Engineering)
+Entrenamiento de modelos
+Evaluación de modelos
+🤖 Modelos de Machine Learning
+Regresión Logística
+Árbol de Decisión
+Bosque Aleatorio (Random Forest)
+🚧 Estado del Proyecto
 
-Project Status
-Project in progress.
+Proyecto en desarrollo.
 
-## Author
+👩‍💻 Autora
+
 Sonia Judith Galian

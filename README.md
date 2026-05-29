@@ -1,11 +1,11 @@
 
-##Proyecto de Clasificación de Marketing Bancario
+## Proyecto de Clasificación de Marketing Bancario
 
 # Objetivo
 
 Desarrollar un modelo de clasificación para identificar clientes con alta probabilidad de suscribirse a un depósito a plazo fijo, ayudando a optimizar futuras campañas de marketing.
 
-#Descripción del Conjunto de Datos
+# Descripción del Conjunto de Datos
 
 El conjunto de datos incluye:
 
@@ -27,7 +27,7 @@ NumPy
 
 Matplotlib
 
-#Flujo de Trabajo del Proyecto
+# Flujo de Trabajo del Proyecto
 
 Limpieza de datos
 
@@ -39,14 +39,14 @@ Entrenamiento de modelos
 
 Evaluación de modelos
 
-#Modelos de Machine Learning
+# Modelos de Machine Learning
 
 en desarrollo
 
-#Estado del Proyecto
+# Estado del Proyecto
 
 Proyecto en desarrollo.
 
-#Autores 
+# Autores 
 
 Grupo 12
